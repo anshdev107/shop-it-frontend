@@ -65,7 +65,6 @@ const ForgotPasswordForm = () => {
                         </Box>
 
                     </Box>
-                    <CopyRight sx={{ mt: 8, mb: 4 }} />
                 </Container >
                 :
                 <Box

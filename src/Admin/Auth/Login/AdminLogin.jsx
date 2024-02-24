@@ -151,7 +151,6 @@ const AdminLogin = () => {
           </Grid>
         </Box>
       </Box>
-      <CopyRight sx={{ mt: 8, mb: 4 }} />
     </Container>
   )
 }
